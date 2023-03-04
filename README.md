@@ -1,3 +1,4 @@
-# DiscordBot
+# Python Discord Bot
 
-Sussy fortnite bot
+### :robot: About :robot: 
+This bot is cringe!
